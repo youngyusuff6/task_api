@@ -2,7 +2,9 @@
 ```markdown
 # Task API
 
-Brief description of your project.
+
+Customers can submit tasks via this API, providing a title, description, and optional category. Tasks are managed through a credit system, where 1 credit is equivalent to 1 task submission. Users can purchase credits in any desired quantity.
+
 
 ## Prerequisites
 
